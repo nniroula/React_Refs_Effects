@@ -1,3 +1,5 @@
+// This solution is the exact copy of the solution manual-approach is to learn by doing it a hard way(coping all).
+
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
